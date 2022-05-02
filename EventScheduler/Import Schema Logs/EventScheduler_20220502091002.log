@@ -1,0 +1,84 @@
+2022/05/02 11:10:02	This log contains information about the import schema operation into project 'EventScheduler' on computer 'DESKTOP-B6Q7TGD' by user 'Danie'.
+2022/05/02 11:10:02	Import of database schema has started.
+2022/05/02 11:10:07	Gathering database credentials
+2022/05/02 11:10:07	Gathering database options
+2022/05/02 11:10:07	Gathering users
+2022/05/02 11:10:07	Gathering roles
+2022/05/02 11:10:07	Gathering application roles
+2022/05/02 11:10:07	Gathering role memberships
+2022/05/02 11:10:07	Gathering filegroups
+2022/05/02 11:10:07	Gathering full-text catalogs
+2022/05/02 11:10:07	Gathering assemblies
+2022/05/02 11:10:07	Gathering certificates
+2022/05/02 11:10:07	Gathering asymmetric keys
+2022/05/02 11:10:07	Gathering symmetric keys
+2022/05/02 11:10:07	Gathering encrypted symmetric keys
+2022/05/02 11:10:07	Gathering schemas
+2022/05/02 11:10:07	Gathering XML schema collections
+2022/05/02 11:10:07	Gathering user-defined data types
+2022/05/02 11:10:07	Gathering user-defined types
+2022/05/02 11:10:07	Gathering table types
+2022/05/02 11:10:07	Gathering unique keys for table types
+2022/05/02 11:10:07	Gathering primary keys for table types
+2022/05/02 11:10:07	Gathering indexes for table types
+2022/05/02 11:10:07	Gathering check constraints for table types
+2022/05/02 11:10:07	Gathering default constraints for table types
+2022/05/02 11:10:07	Gathering partition functions
+2022/05/02 11:10:07	Gathering partition schemes
+2022/05/02 11:10:07	Gathering functions
+2022/05/02 11:10:07	Gathering encrypted functions
+2022/05/02 11:10:07	Gathering aggregates
+2022/05/02 11:10:07	Gathering procedures
+2022/05/02 11:10:07	Gathering encrypted procedures
+2022/05/02 11:10:07	Gathering tables
+2022/05/02 11:10:07	Gathering primary keys
+2022/05/02 11:10:07	Gathering unique constraints
+2022/05/02 11:10:07	Gathering foreign keys
+2022/05/02 11:10:07	Gathering default constraints
+2022/05/02 11:10:07	Gathering check constraints
+2022/05/02 11:10:07	Gathering views
+2022/05/02 11:10:08	Gathering encrypted views
+2022/05/02 11:10:08	Gathering indexes
+2022/05/02 11:10:08	Gathering statistics
+2022/05/02 11:10:08	Gathering full-text index stoplists
+2022/05/02 11:10:08	Gathering search property lists
+2022/05/02 11:10:08	Gathering search properties
+2022/05/02 11:10:08	Gathering full-text indexes
+2022/05/02 11:10:08	Gathering column store indexes
+2022/05/02 11:10:08	Gathering spatial indexes
+2022/05/02 11:10:08	Gathering XML indexes
+2022/05/02 11:10:08	Gathering Selective XML indexes
+2022/05/02 11:10:08	Gathering encrypted triggers
+2022/05/02 11:10:08	Gathering triggers
+2022/05/02 11:10:08	Gathering encrypted and clr ddl triggers
+2022/05/02 11:10:08	Gathering ddl triggers
+2022/05/02 11:10:08	Gathering synonyms
+2022/05/02 11:10:08	Gathering defaults
+2022/05/02 11:10:08	Gathering data constraint uddt bindings
+2022/05/02 11:10:08	Gathering rules
+2022/05/02 11:10:08	Gathering data constraint uddt bindings
+2022/05/02 11:10:08	Gathering message types
+2022/05/02 11:10:08	Gathering queues
+2022/05/02 11:10:08	Gathering contracts
+2022/05/02 11:10:08	Gathering services
+2022/05/02 11:10:08	Gathering event notifications
+2022/05/02 11:10:08	Gathering remote service bindings
+2022/05/02 11:10:08	Gathering broker priorities
+2022/05/02 11:10:08	Gathering signatures
+2022/05/02 11:10:08	Gathering data compression options
+2022/05/02 11:10:08	Gathering sequence types
+2022/05/02 11:10:08	Gathering security policies
+2022/05/02 11:10:08	Gather column encryption keys
+2022/05/02 11:10:08	Gathering column master keys
+2022/05/02 11:10:08	Gathering external data sources
+2022/05/02 11:10:08	Gathering external file formats
+2022/05/02 11:10:08	Gathering external tables
+2022/05/02 11:10:08	Gathering extended properties
+2022/05/02 11:10:08	Gathering credentials
+2022/05/02 11:10:08	Gathering logins
+2022/05/02 11:10:08	Gathering server audits
+2022/05/02 11:10:08	Scanning project for duplicate elements
+2022/05/02 11:10:09	Finished duplicate element processing
+2022/05/02 11:10:09	Finished importing database.
+2022/05/02 11:10:09	A summary of the import was saved to the following location: C:\Users\Danie\source\repos\DoctorlyAssessment\EventScheduler\Import Schema Logs\EventScheduler_20220502091002.log
+2022/05/02 11:10:09	Click Finish to continue...

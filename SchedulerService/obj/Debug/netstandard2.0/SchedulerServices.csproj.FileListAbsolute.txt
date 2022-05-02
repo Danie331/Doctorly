@@ -1,0 +1,12 @@
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerService\bin\Debug\netstandard2.0\SchedulerServices.deps.json
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerService\bin\Debug\netstandard2.0\SchedulerServices.dll
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerService\bin\Debug\netstandard2.0\SchedulerServices.pdb
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerService\obj\Debug\netstandard2.0\SchedulerServices.csprojAssemblyReference.cache
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerService\obj\Debug\netstandard2.0\SchedulerServices.AssemblyInfoInputs.cache
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerService\obj\Debug\netstandard2.0\SchedulerServices.AssemblyInfo.cs
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerService\obj\Debug\netstandard2.0\SchedulerServices.csproj.CoreCompileInputs.cache
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerService\obj\Debug\netstandard2.0\SchedulerServices.dll
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerService\obj\Debug\netstandard2.0\SchedulerServices.pdb
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerService\bin\Debug\netstandard2.0\SchedulerServiceContract.dll
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerService\bin\Debug\netstandard2.0\SchedulerServiceContract.pdb
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerService\obj\Debug\netstandard2.0\SchedulerServices.csproj.CopyComplete

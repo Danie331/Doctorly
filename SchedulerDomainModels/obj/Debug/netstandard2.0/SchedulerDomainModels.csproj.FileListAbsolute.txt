@@ -1,0 +1,9 @@
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerDomainModels\bin\Debug\netstandard2.0\SchedulerDomainModels.deps.json
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerDomainModels\bin\Debug\netstandard2.0\SchedulerDomainModels.dll
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerDomainModels\bin\Debug\netstandard2.0\SchedulerDomainModels.pdb
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerDomainModels\obj\Debug\netstandard2.0\SchedulerDomainModels.csprojAssemblyReference.cache
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerDomainModels\obj\Debug\netstandard2.0\SchedulerDomainModels.AssemblyInfoInputs.cache
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerDomainModels\obj\Debug\netstandard2.0\SchedulerDomainModels.AssemblyInfo.cs
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerDomainModels\obj\Debug\netstandard2.0\SchedulerDomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerDomainModels\obj\Debug\netstandard2.0\SchedulerDomainModels.dll
+C:\Users\Danie\source\repos\DoctorlyAssessment\SchedulerDomainModels\obj\Debug\netstandard2.0\SchedulerDomainModels.pdb

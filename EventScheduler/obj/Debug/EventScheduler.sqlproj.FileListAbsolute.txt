@@ -1,0 +1,6 @@
+C:\Users\Danie\source\repos\DoctorlyAssessment\EventScheduler\bin\Debug\EventScheduler.dacpac
+C:\Users\Danie\source\repos\DoctorlyAssessment\EventScheduler\bin\Debug\EventScheduler.dll
+C:\Users\Danie\source\repos\DoctorlyAssessment\EventScheduler\bin\Debug\EventScheduler.pdb
+C:\Users\Danie\source\repos\DoctorlyAssessment\EventScheduler\obj\Debug\EventScheduler.sqlprojAssemblyReference.cache
+C:\Users\Danie\source\repos\DoctorlyAssessment\EventScheduler\obj\Debug\EventScheduler.dll
+C:\Users\Danie\source\repos\DoctorlyAssessment\EventScheduler\obj\Debug\EventScheduler.pdb
